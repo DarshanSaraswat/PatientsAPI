@@ -6,8 +6,8 @@ git clone https://github.com/DarshanSaraswat/PatientsAPI.git
 #cloning into your local system
 
 step 2:
-nmp i
+npm i
 #Installing Dependencies
 
 step 3:
-create .env file 
+create .env file to setup the Environment variables
